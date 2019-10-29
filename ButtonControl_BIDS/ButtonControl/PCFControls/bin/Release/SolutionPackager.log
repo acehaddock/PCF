@@ -1,0 +1,33 @@
+2019-10-29 15:44:23.736 - Info	
+Packing C:\Users\VadivelM\Desktop\ButtonControl_BIDS\ButtonControl\PCFControls\obj\Release\ to bin\Release\\PCFControls.zip and bin\Release\PCFControls_managed.zip
+
+2019-10-29 15:44:23.752 - Info	Processing Component: Entities
+2019-10-29 15:44:23.756 - Info	Processing Component: Roles
+2019-10-29 15:44:23.760 - Info	Processing Component: Workflows
+2019-10-29 15:44:23.760 - Info	Processing Component: FieldSecurityProfiles
+2019-10-29 15:44:23.761 - Info	Processing Component: Templates
+2019-10-29 15:44:23.762 - Info	Processing Component: EntityMaps
+2019-10-29 15:44:23.762 - Info	Processing Component: EntityRelationships
+2019-10-29 15:44:23.767 - Info	Processing Component: OrganizationSettings
+2019-10-29 15:44:23.768 - Info	Processing Component: optionsets
+2019-10-29 15:44:23.768 - Info	Processing Component: CustomControls
+2019-10-29 15:44:23.776 - Info	 - BIDS.ButtonControl
+2019-10-29 15:44:23.787 - Info	Processing Component: EntityDataProviders
+2019-10-29 15:44:23.827 - Info	
+Unmanaged Pack complete.
+
+2019-10-29 15:44:23.829 - Info	Processing Component: Entities
+2019-10-29 15:44:23.829 - Info	Processing Component: Roles
+2019-10-29 15:44:23.830 - Info	Processing Component: Workflows
+2019-10-29 15:44:23.830 - Info	Processing Component: FieldSecurityProfiles
+2019-10-29 15:44:23.830 - Info	Processing Component: Templates
+2019-10-29 15:44:23.830 - Info	Processing Component: EntityMaps
+2019-10-29 15:44:23.830 - Info	Processing Component: EntityRelationships
+2019-10-29 15:44:23.831 - Info	Processing Component: OrganizationSettings
+2019-10-29 15:44:23.831 - Info	Processing Component: optionsets
+2019-10-29 15:44:23.831 - Info	Processing Component: CustomControls
+2019-10-29 15:44:23.833 - Info	 - BIDS.ButtonControl
+2019-10-29 15:44:23.837 - Info	Processing Component: EntityDataProviders
+2019-10-29 15:44:23.854 - Info	
+Managed Pack complete.
+

@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VadivelM\\Desktop\\ButtonControl_BIDS\\ButtonControl\\PCFControls\\PCFControls.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VadivelM\\Desktop\\ButtonControl_BIDS\\ButtonControl\\PCFControls\\PCFControls.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VadivelM\\Desktop\\ButtonControl_BIDS\\ButtonControl\\PCFControls\\PCFControls.cdsproj",
+        "projectName": "PCFControls",
+        "projectPath": "C:\\Users\\VadivelM\\Desktop\\ButtonControl_BIDS\\ButtonControl\\PCFControls\\PCFControls.cdsproj",
+        "packagesPath": "C:\\Users\\VadivelM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VadivelM\\Desktop\\ButtonControl_BIDS\\ButtonControl\\PCFControls\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\VadivelM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
